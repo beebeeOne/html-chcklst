@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Inter', sans-serif;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+}
+
+label {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bolder;
+}
+
+a.link1 {
+    position: relative;
+    left: 25px;
+}
+
